@@ -18,7 +18,7 @@
     "@types/node": "^22.0.0",
     "sass": "^1.97.3",
     "typescript": "^5.0.0",
-    "vite": "^6.0.0"
+    "vite": "^6.4.2"
   },
   "keywords": [
     "scss",
